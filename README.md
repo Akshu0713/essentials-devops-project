@@ -1,1 +1,1 @@
-# essentials-devops-project
+# Web-dev-mini-project-1
